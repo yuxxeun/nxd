@@ -1,0 +1,19 @@
+{
+  "name": "nxd",
+  "version": "1.0.0",
+  "description": "mini cli library app",
+  "author": "yuxxeun <itsyuxxeun@gmail.com>",
+  "license": "WTFPL",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuxxeun/nxd.git"
+  },
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}

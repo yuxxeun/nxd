@@ -1,6 +1,6 @@
 git add .
 
-msg="update site `date`"
+msg="ref: at `date`"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
